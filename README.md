@@ -1,112 +1,119 @@
-Here’s a **level-up, more professional GitHub README version** with better structure, clarity, and a roadmap feel. You can directly paste this into your `README.md`.
-
----
-
-````md id="upg1"
 # 📊 Data Analysis Basics
 
-A structured learning repository to build strong fundamentals in **Data Analysis using Python**.
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Improving-brightgreen?style=for-the-badge)
 
 ---
 
 ## 🚀 About This Project
 
-This repository documents my journey in learning data analysis using Python libraries like Pandas and NumPy. It focuses on understanding, cleaning, and analyzing real-world datasets.
+This repository documents my journey into **Data Analysis using Python**.  
+It focuses on learning how to collect, clean, analyze, and visualize real-world datasets using powerful Python libraries like Pandas and NumPy.
+
+The goal is to build strong fundamentals for **Data Science and Machine Learning**.
 
 ---
 
-## ✅ What I Have Learned
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lijith-Talluru&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijith-Talluru&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Lijith-Talluru&theme=tokyonight)
+
+---
+
+## 📚 Topics Covered
 
 ### 📂 Data Handling
-- Reading CSV files using Pandas
-- Understanding DataFrames and Series
-- Loading and inspecting datasets
+- Reading CSV files using Pandas  
+- Understanding DataFrames and Series  
+- Loading and inspecting datasets  
 
 ### 🔍 Data Exploration
-- head(), tail(), info(), describe()
-- Checking data types and structure
-- Identifying missing values (NaN)
+- head(), tail(), info(), describe()  
+- Checking data types and structure  
+- Identifying missing values (NaN)  
 
 ### 🧹 Data Cleaning
-- Handling missing values
-- Removing duplicates
-- Renaming columns
-- Type conversion
+- Handling missing values  
+- Removing duplicates  
+- Renaming columns  
+- Type conversion  
 
 ### 📊 Data Analysis
-- Filtering rows and columns
-- Sorting and indexing data
-- GroupBy operations
-- Aggregation functions (mean, sum, count, etc.)
+- Filtering rows and columns  
+- Sorting and indexing data  
+- GroupBy operations  
+- Aggregation functions (mean, sum, count)  
 
 ### 🔗 Data Combination
-- Merging datasets
-- Joining tables
-- Concatenation of DataFrames
+- Merging datasets  
+- Joining tables  
+- Concatenation of DataFrames  
 
 ---
 
-## 📚 What I Am Currently Learning
+## 📚 Currently Learning
 
-- Advanced Pandas operations
-- Exploratory Data Analysis (EDA)
-- Data visualization using Matplotlib & Seaborn
-- Working with real-world messy datasets
-- Performance optimization for large data
-
----
-
-## 🎯 What I Plan to Learn Next
-
-- SQL integration with Python
-- Time series analysis
-- Feature engineering basics
-- Working with JSON, Excel, and APIs
-- End-to-end data analysis projects
-- Kaggle dataset practice
-- Dashboard creation (Power BI / Tableau basics)
+- Advanced Pandas operations  
+- Exploratory Data Analysis (EDA)  
+- Data visualization using Matplotlib & Seaborn  
+- Working with real-world datasets  
+- Performance optimization for large datasets  
 
 ---
 
-## 🧠 Learning Roadmap
+## 🎯 Future Learning Goals
+
+- SQL integration with Python  
+- Time series analysis  
+- Feature engineering basics  
+- Working with JSON, Excel, and APIs  
+- End-to-end real-world data analysis projects  
+- Kaggle competitions practice  
+- Dashboard creation using Power BI / Tableau  
+
+---
+
+## 🧠 Mini Projects Ideas
+
+- 📈 Sales Data Analysis  
+- 🏫 Student Performance Analysis  
+- 🛒 E-commerce Data Insights  
+- 🌦️ Weather Data Analysis  
+- 🚕 Ride-sharing Data Analysis  
+
+---
+
+## 🧰 Tech Stack
+
+- Python 🐍  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
+
+---
+
+## 🧭 Learning Roadmap
 
 ```text
-Basics → Data Cleaning → Data Analysis → Visualization → EDA → Real Projects → Advanced Data Science
-````
+Basics → Data Cleaning → Data Analysis → Visualization → EDA → Projects → Advanced Data Science
+📌 Project Status
 
----
+🚧 Actively Learning & Building Projects
+📈 Updated regularly with new concepts and mini projects
 
-## 🛠️ Tech Stack
+⭐ Connect & Explore
 
-* Python 🐍
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-
----
-
-## 🎯 Goal
-
-To become confident in real-world data analysis and build a strong foundation for **Data Science & Machine Learning**.
-
----
-
-## 📌 Status
-
-🚧 In Progress — Consistently updating with new learnings and mini projects.
-
----
-
-⭐ If you like this repo, feel free to follow my journey!
-
-```
-
----
-
-If you want next upgrade, I can make it:
-- 🔥 **:contentReference[oaicite:0]{index=0}**
-- 🤖 :contentReference[oaicite:1]{index=1}
-- 📈 Or turn it into a **Data Science roadmap tracker with checkboxes (like Notion style)**
-```
+⭐ If you like this project, feel free to explore and follow my journey!
+Let’s learn and grow in Data Science together 🚀
